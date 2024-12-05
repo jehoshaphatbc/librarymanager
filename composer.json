@@ -13,6 +13,7 @@
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.4",
         "livewire/volt": "^1.0",
+        "tymon/jwt-auth": "2.1.1",
         "usernotnull/tall-toasts": "^2.1"
     },
     "require-dev": {
